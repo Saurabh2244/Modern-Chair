@@ -3,7 +3,7 @@
 
 A stylish and visually appealing **Modern Chair** design created using **HTML** and **CSS**, featuring smooth animations and responsive behavior. This project demonstrates the blend of creativity and functionality in web design.  
 
-🌍 **[Live Demo](#)** | 📂 **[Repository](https://github.com/Saurabh2244/Modern-Chair)**  
+🌍 **[Live Demo](https://saurabh2244.github.io/Modern-Chair)** | 📂 **[Repository](https://github.com/Saurabh2244/Modern-Chair)**  
 
 ---
 
